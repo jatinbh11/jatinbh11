@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on **IPL Match prediction**
 
 - 🌱 I’m currently learning **Data science,**
 
