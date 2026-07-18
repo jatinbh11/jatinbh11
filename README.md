@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatinbh11&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/jatin-bhargava-173048227"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jatinbhargava114@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://jatinbh11.github.io/Jatin_Bhargav_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://jatin-bhargav-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
