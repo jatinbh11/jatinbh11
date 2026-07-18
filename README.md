@@ -176,20 +176,6 @@ AI Chatbots · AI Calling Agents · Prompt Engineering · Workflow Automation ·
 - **ReactJS for Beginners** — SimpliLearn (May 2024)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinbh11&show_icons=true&theme=tokyonight&count_private=true" alt="Jatin's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinbh11&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinbh11&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 📬 Get In Touch
 
 <p align="left">
